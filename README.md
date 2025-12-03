@@ -85,3 +85,86 @@ For academic, institutional, or research inquiries:
 **MaMeeFarm™ — Real-Work Data Protocol**  
 AI-ready, immutable, and born from daily life.
 
+# 📘 DATA-SPEC — MaMeeFarm™ Real-Work Data Protocol  
+**Version 2.0 — Data-First Specification (Append-Only Evolution)**  
+Part of the DGCP™ (Data Governance & Continuous Proof) Architecture  
+Protected by MMFARM-POL-2025 License  
+
+---
+
+## 🌍 Purpose of This Repository  
+This repository contains the **official DATA-FIRST specifications** of the DGCP™ Protocol —  
+the world’s first *Real-Work Data Protocol* designed to capture, verify, and preserve  
+continuous human labor signals using the **least technology possible**.
+
+This is the evolution from the original “Duck Governance” naming into the modern  
+**Data Governance & Continuous Proof** architecture.
+
+This repo defines:
+
+- The *canonical* metadata standards  
+- System structure and invariants  
+- Lifecycle rules  
+- Human-audit governance  
+- JSON schemas for machine validators  
+- Real-Work Data Economy model  
+- Immutable append-only specification history  
+
+No proof media, no daily logs, no images exist in this repo —  
+only the **DGCP™ Specification** itself.
+
+---
+
+## 🔑 DGCP™ Architectural Pipeline (Data-First Model)
+
+Human Work
+↓
+Phone Signature (worker_id_public)
+↓
+IPFS (CID v1 — Immutable Media)
+↓
+GitHub (Append-Only Metadata Commit)
+↓
+Minimal DLT Timestamp (OTS / Bitcoin Opcodes)
+
+DGCP™ provides **global auditability** without requiring any future IoT, surveillance,  
+AI scoring system, or machine-based classification layers.
+
+---
+
+## 📁 Repository Structure (Append-Only)
+
+- `/spec/` — Canonical DGCP™ & DATA-SPEC documents  
+- `/schema/` — Machine-readable DMS schemas  
+- `/governance/` — Human audit & invariants  
+- `/economy/` — Real-Work Data Economy references  
+- `/versions/` — Historical versions (immutable, never removed)
+
+Each new version is added as **_v2, v3, v4 …_**  
+No file is ever deleted or overwritten.
+
+---
+
+## 🧾 Licensing
+All files are protected under **MMFARM-POL-2025**,  
+the global Real-Work Data license defining:
+
+- Ownership  
+- Usage constraints  
+- Derivative rights  
+- Enforcement rules  
+- Anti-fake & anti-misuse protections  
+
+---
+
+## 🦆 Evolution to Data-First  
+The protocol originally began as duck-level observation and now evolves into  
+a **human-centric, data-centric, and globally auditable architecture** that  
+scales from 1 worker → 100 workers → 10,000 workers.
+
+This repo documents that evolution truthfully and immutably.
+
+---
+
+© 2025 MaMeeFarm™ — DGCP™ Protocol  
+Licensed under MMFARM-POL-2025  
